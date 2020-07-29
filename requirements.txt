@@ -1,0 +1,10 @@
+nltk
+oauthlib
+requests
+requests-oauthlib
+six
+textblob
+tweepy
+dj-database-url
+gunicorn
+psycopg2
